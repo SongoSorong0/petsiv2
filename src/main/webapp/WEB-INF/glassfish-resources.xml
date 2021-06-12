@@ -6,7 +6,7 @@
         <property name="portNumber" value="3306"/>
         <property name="databaseName" value="dbs_petsi"/>
         <property name="User" value="root"/>
-        <property name="Password" value="root"/>
+        <property name="Password" value="mePongosongo1"/>
         <property name="URL" value="jdbc:mysql://localhost:3306/dbs_petsi?zeroDateTimeBehavior=convertToNull&amp;useSSL=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true"/>
         <property name="driverClass" value="com.mysql.cj.jdbc.Driver"/>
     </jdbc-connection-pool>
